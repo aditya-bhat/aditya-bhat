@@ -44,7 +44,7 @@ I am Machine Learning enthusiast who is passionate to learn new technologies.
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/adityabhat24/"><img src="https://img.shields.io/badge/-Aditya%20Bhat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aditya-deepak-bhat/"><img src="https://img.shields.io/badge/-Aditya%20Bhat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aditya.deepak.bhat@gmail.com"><img src="https://img.shields.io/badge/-aditya.deepak.bhat@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/aditya_bhat24"><img src="https://img.shields.io/badge/-aditya_bhat24-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
