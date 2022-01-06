@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Aditya Deepak Bhat</h1>
-<h3 align="center">Research and Development Engineer @ HPE R&D, Bangalore ● PESU CSE</h3>
+<h3 align="center"> MS CS Grad Student at ASU ● Ex-Software Engineer @ HPE R&D, Bangalore ● PESU CSE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-bhat&style=flat-square" alt="aditya-bhat" /> </p>
 
 I am Machine Learning enthusiast who is passionate to learn new technologies.
 
-- 🔭 I’m currently working as a **Research and Development Engineer @ HPE R&D**
+- 🔭 I’m currently pursuing a **MS in Computer Science @ ASU**
 - 🌱 I’m currently learning **Deep NLP**
 - 👯 I’m looking to collaborate on **Machine/Deep Learning and Research Projects**
 - 🤔 I’m looking for help with **learning anything new!**
