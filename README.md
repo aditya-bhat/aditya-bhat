@@ -5,7 +5,7 @@
 
 I am Machine Learning enthusiast who is passionate to learn new technologies.
 
-- 🔭 I’m currently pursuing a **MS in Computer Science @ ASU**
+- 🔭 I’m currently pursuing an **MS in Computer Science @ ASU**
 - 🌱 I’m currently learning **Deep NLP**
 - 👯 I’m looking to collaborate on **Machine/Deep Learning and Research Projects**
 - 🤔 I’m looking for help with **learning anything new!**
