@@ -6,8 +6,8 @@
 I am Machine Learning enthusiast who is passionate to learn new technologies.
 
 - 🔭 I’m currently pursuing an **MS in Computer Science @ ASU**
-- 🌱 I’m currently learning **Deep NLP**
-- 👯 I’m looking to collaborate on **Machine/Deep Learning and Research Projects**
+- 🌱 I’m currently learning **Cloud Computing**
+- 👯 I’m looking to collaborate on **Full-Stack/Machine Learning and Research Projects**
 - 🤔 I’m looking for help with **learning anything new!**
 - 💬 Ask me about **anything related to Web Technologies, Programming and Machine Learning**
 - 📫 How to reach me: **aditya.deepak.bhat@gmail.com**
