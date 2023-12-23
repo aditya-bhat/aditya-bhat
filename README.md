@@ -1,16 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Aditya Deepak Bhat</h1>
-<h3 align="center">I'm currently working as a Full-Stack Web Engineer Assistant at EdPlus (Arizona State University).</h3>
-<h3 align="center"> MS CS Grad Student at ASU ● Ex-Software Engineer @ HPE R&D, Bangalore ● PESU CSE</h3>
+<h3 align="center">Software Engineer @ Tesla</h3>
+<h3 align="center"> MS CS @ ASU ● Ex-Software Engineer @ HPE R&D ● CSE @ PESU </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-bhat&style=flat-square" alt="aditya-bhat" /> </p>
 
-Interested in the areas of Full-Stack, Cloud Computing, and Applied Machine Learning.
+Interested in the areas of Backend Software Development, Cloud Computing, and Applied Machine Learning.
 
-- 🔭 I’m currently pursuing an **MS in Computer Science @ ASU**
-- 🌱 I’m currently learning **Cloud Computing**
-- 👯 I’m looking to collaborate on **Full-Stack/Machine Learning and Research Projects**
+- 🔭 I’m a **Backend Software Engineer with 3 years of professional experience**.
+- 🎓 I completed my **MS in Computer Science @ ASU**.
+- 🌱 I’m currently exploring **Cloud Computing and Microservices**.
+- 👯 I’m looking to collaborate on **Machine Learning and Research Projects**.
 - 🤔 I’m looking for help with **learning anything new!**
-- 💬 Ask me about **anything related to Web Technologies, Programming and Machine Learning**
+- 💬 Ask me about **anything related to Web Technologies, Programming and Machine Learning**.
 - 📫 How to reach me: **aditya.deepak.bhat@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love :coffee: and :soccer:**
